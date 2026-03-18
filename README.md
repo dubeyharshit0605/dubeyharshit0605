@@ -1,6 +1,6 @@
 👋 Hello Everyone!
 
-I'm Harshit Dubey, a 2nd-year CSE undergraduate at Indian Institute of Information Technology (IIIT Vadodara).
+I'm Harshit Dubey, a 2nd-year CSE undergraduate at Indian Institute of Information Technology
 
 🚀 Currently focused on building and improving my development skills.
 
