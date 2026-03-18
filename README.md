@@ -14,7 +14,6 @@
 
 * 🎓 B.Tech CSE @ IIIT
 * 💻 Flutter & Web Developer
-* 🚀 Building: Budget & Gig Finder + Git Fetcher
 * 🌱 Currently Learning: DSA, System Design, Backend
 
 ---
