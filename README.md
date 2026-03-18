@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hello Everyone!
 
-<!--
-**dubeyharshit0605/dubeyharshit0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harshit Dubey, a 2nd-year CSE undergraduate at Indian Institute of Information Technology (IIIT Vadodara).
 
-Here are some ideas to get you started:
+🚀 Currently focused on building and improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack & Interests:
+
+Flutter (Mobile App Development)
+
+React (Frontend Development)
+
+Exploring Full Stack Development
+
+🔥 I enjoy creating impactful projects and continuously learning new technologies.
