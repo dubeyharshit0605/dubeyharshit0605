@@ -1,77 +1,36 @@
 <h1 align="center">Hi 👋, I'm Harshit Dubey</h1>
 
+<h3 align="center">
+  🚀 Flutter Developer | Web Developer | Backend Learner | Problem Solver
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Web+Developer;Problem+Solver;Building+Cool+Stuff;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+clean+and+useful+applications;Exploring+Backend+%2B+System+Design;Solving+DSA+problems+consistently;Learning+GenAI+and+modern+web+development;Always+building.+Always+improving.+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dubeyharshit0605&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dubeyharshit0605&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE @ IIIT
-* 💻 Flutter & Web Developer
-* 🌱 Currently Learning: DSA, System Design, Backend
+I am a **B.Tech CSE student at IIIT** who enjoys building practical software, learning core computer science, and improving through real projects.
+
+- 💻 I build apps using **Flutter, React, Node.js, Firebase, and MongoDB**
+- 🌱 Currently learning **DSA, Backend Development, System Design, and GenAI**
+- 🚀 Focused on becoming strong in **Full-Stack + AI-powered application development**
+- 🧠 I believe in learning by building, debugging, and shipping projects
+- 🎯 Goal: Build a strong GitHub profile with useful, clean, and well-documented projects
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,flutter,firebase,mongodb,html,css" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dubeyharshit0605&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyharshit0605&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dubeyharshit0605&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dubeyharshit0605/dubeyharshit0605/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dubeyharshit0605&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:dubeyharshit0605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/dubeyharshit0605">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ "Elegance in every step."
-</p>
+```txt
+DSA               █████████░░░░░░░░   Improving Daily
+Backend           ████████░░░░░░░░░   Node.js + Express
+System Design     █████░░░░░░░░░░░░   Learning Fundamentals
+GenAI             ██████░░░░░░░░░░░   Building AI Projects
+Flutter           ██████████░░░░░░░   App Development
