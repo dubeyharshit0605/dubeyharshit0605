@@ -81,16 +81,12 @@ CS fundamentals          DSA, OOP, DBMS, system design basics
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dubeyharshit0605&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=14b8a6" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyharshit0605&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
+  <img width="49%" src="assets/github-stats.svg" alt="GitHub profile stats" />
+  <img width="49%" src="assets/top-languages.svg" alt="Top languages summary" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=dubeyharshit0605&theme=github-dark-blue&hide_border=true&background=0f172a&stroke=38bdf8&ring=14b8a6&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyharshit0605&bg_color=0f172a&color=cbd5e1&line=38bdf8&point=14b8a6&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="95%" src="assets/development-focus.svg" alt="Development focus graph" />
 </p>
 
 ## Current Mission
