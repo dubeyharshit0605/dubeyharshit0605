@@ -36,19 +36,19 @@
 
 <p align="center">
   <a href="https://github.com/dubeyharshit0605/Text-to-learn">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dubeyharshit0605&repo=Text-to-learn&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=14b8a6" alt="Text-to-Learn repository card" />
+    <img width="410" src="assets/text-to-learn.svg" alt="Text-to-Learn project preview" />
   </a>
   <a href="https://github.com/dubeyharshit0605/rubiks-cube-studio">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dubeyharshit0605&repo=rubiks-cube-studio&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=14b8a6" alt="Rubik's Cube Studio repository card" />
+    <img width="410" src="assets/rubiks-cube-studio.svg" alt="Rubik's Cube Studio project preview" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dubeyharshit0605/SWE">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dubeyharshit0605&repo=SWE&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=14b8a6" alt="SWE repository card" />
+    <img width="410" src="assets/swe-platform.svg" alt="SWE project preview" />
   </a>
   <a href="https://github.com/dubeyharshit0605/SERVER">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dubeyharshit0605&repo=SERVER&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=14b8a6" alt="SERVER repository card" />
+    <img width="410" src="assets/server-api.svg" alt="SERVER project preview" />
   </a>
 </p>
 

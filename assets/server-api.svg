@@ -1,0 +1,41 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SERVER project preview</title>
+  <desc id="desc">A dark portfolio card for a Node.js backend API with routes, services, and database nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.52"/>
+    </filter>
+  </defs>
+  <rect width="900" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="770" cy="96" r="126" fill="#22c55e" opacity="0.12"/>
+  <circle cx="126" cy="420" r="142" fill="#38bdf8" opacity="0.1"/>
+  <g filter="url(#shadow)">
+    <rect x="86" y="82" width="728" height="332" rx="26" fill="#020617" opacity="0.78" stroke="#334155"/>
+    <rect x="132" y="134" width="156" height="94" rx="20" fill="#0f172a" stroke="#334155"/>
+    <text x="172" y="173" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">Client</text>
+    <text x="155" y="204" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16">Requests</text>
+    <rect x="372" y="112" width="174" height="138" rx="22" fill="#111827" stroke="#0f766e"/>
+    <text x="418" y="166" fill="#ccfbf1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800">API</text>
+    <text x="404" y="202" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16">Node.js + Express</text>
+    <rect x="626" y="134" width="142" height="94" rx="20" fill="#0f172a" stroke="#334155"/>
+    <text x="663" y="173" fill="#14b8a6" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">DB</text>
+    <text x="650" y="204" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16">MongoDB</text>
+    <path d="M288 181H372" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M546 181H626" stroke="#14b8a6" stroke-width="7" stroke-linecap="round"/>
+    <rect x="155" y="295" width="154" height="50" rx="14" fill="#0f172a" stroke="#1e293b"/>
+    <rect x="373" y="295" width="154" height="50" rx="14" fill="#0f172a" stroke="#1e293b"/>
+    <rect x="591" y="295" width="154" height="50" rx="14" fill="#0f172a" stroke="#1e293b"/>
+    <text x="187" y="327" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Routes</text>
+    <text x="401" y="327" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Services</text>
+    <text x="622" y="327" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Models</text>
+    <path d="M309 320H373" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+    <path d="M527 320H591" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="74" y="470" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800">SERVER</text>
+  <text x="232" y="470" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Backend API | Node.js | Express | MongoDB</text>
+</svg>

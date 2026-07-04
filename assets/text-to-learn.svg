@@ -1,0 +1,43 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Text-to-Learn project preview</title>
+  <desc id="desc">A dark portfolio card for an AI learning assistant that turns text into study notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.52" stop-color="#102a3a"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="112" x2="690" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="900" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="782" cy="92" r="118" fill="#38bdf8" opacity="0.12"/>
+  <circle cx="106" cy="446" r="135" fill="#14b8a6" opacity="0.11"/>
+  <path d="M676 96C742 118 787 174 803 244C817 306 792 383 731 416C669 449 588 420 552 361C515 299 532 211 578 154C604 122 634 102 676 96Z" fill="#2563eb" opacity="0.15"/>
+  <g filter="url(#shadow)">
+    <rect x="74" y="72" width="752" height="376" rx="26" fill="#020617" opacity="0.74" stroke="#334155"/>
+    <rect x="102" y="108" width="322" height="304" rx="18" fill="#0f172a" stroke="#1e293b"/>
+    <rect x="129" y="136" width="150" height="14" rx="7" fill="#38bdf8"/>
+    <rect x="129" y="176" width="240" height="10" rx="5" fill="#64748b"/>
+    <rect x="129" y="205" width="214" height="10" rx="5" fill="#475569"/>
+    <rect x="129" y="234" width="260" height="10" rx="5" fill="#475569"/>
+    <rect x="129" y="263" width="188" height="10" rx="5" fill="#475569"/>
+    <rect x="129" y="316" width="228" height="54" rx="15" fill="#111827" stroke="#0f766e"/>
+    <text x="153" y="350" fill="#ccfbf1" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Study Notes</text>
+    <path d="M453 255H526" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M501 223L534 255L501 287" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="566" y="116" width="206" height="248" rx="25" fill="#0b1220" stroke="#334155"/>
+    <circle cx="669" cy="198" r="52" fill="#0f766e" opacity="0.28"/>
+    <circle cx="669" cy="198" r="31" fill="#38bdf8" opacity="0.85"/>
+    <path d="M626 287H712" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M626 322H737" stroke="#14b8a6" stroke-width="10" stroke-linecap="round"/>
+    <path d="M626 357H699" stroke="#64748b" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="74" y="480" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800">Text-to-Learn</text>
+  <text x="344" y="480" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">AI learning assistant | React | Node.js</text>
+</svg>
