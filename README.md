@@ -103,6 +103,32 @@ Direction     Full-stack engineering, backend systems, and applied AI.
 | Collaboration | Open-source contributions and product-focused teamwork |
 | Location | India |
 
+## 08 // CONNECT
+
+<p align="center">
+  <a href="https://codeforces.com/profile/SarahSpeedy">
+    <img src="https://img.shields.io/badge/CODEFORCES-SARAHSPEEDY-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="SarahSpeedy on Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/sarahspeedy">
+    <img src="https://img.shields.io/badge/CODECHEF-SARAHSPEEDY-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="sarahspeedy on CodeChef" />
+  </a>
+  <a href="https://leetcode.com/u/x57bbAmhBm/">
+    <img src="https://img.shields.io/badge/LEETCODE-x57bbAmhBm-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="x57bbAmhBm on LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/ZgPBGfpsG">
+    <img src="https://img.shields.io/badge/DISCORD-JOIN_COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Harshit's Discord community" />
+  </a>
+  <a href="https://join.slack.com/t/sarahspeedy/shared_invite/zt-4531e2974-shfEWXacUr6CIPXElQgWGQ">
+    <img src="https://img.shields.io/badge/SLACK-JOIN_WORKSPACE-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Join Harshit's Slack workspace" />
+  </a>
+  <a href="mailto:dubeyharshit0605@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-dubeyharshit0605%40gmail.com-D7263D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harshit at dubeyharshit0605@gmail.com" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
