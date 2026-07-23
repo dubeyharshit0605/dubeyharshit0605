@@ -80,7 +80,7 @@ Direction     Full-stack engineering, backend systems, and applied AI.
 
 | Project | Contribution |
 | --- | --- |
-| [Rowboat](https://github.com/rowboatlabs/rowboat) | Working on grouped UI for consecutive web-search results ([issue #764](https://github.com/rowboatlabs/rowboat/issues/764)) |
+| [Rowboat](https://github.com/rowboatlabs/rowboat) | Working on grouped UI for consecutive web-search results ([issue #764](https://github.com/rowboatlabs/rowboat/issues/764)); 7 focused conversation-grouping tests passing locally |
 
 ## 06 // ENGINEERING SIGNAL
 
