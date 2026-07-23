@@ -76,13 +76,7 @@ Direction     Full-stack engineering, backend systems, and applied AI.
 - Practice DSA and system design with consistency
 - Document serious projects so their value is clear in under one minute
 
-## 05 // OPEN-SOURCE LOG
-
-| Project | Contribution |
-| --- | --- |
-| [Rowboat](https://github.com/rowboatlabs/rowboat) | Working on grouped UI for consecutive web-search results ([issue #764](https://github.com/rowboatlabs/rowboat/issues/764)); 7 focused conversation-grouping tests passing locally |
-
-## 06 // ENGINEERING SIGNAL
+## 05 // ENGINEERING SIGNAL
 
 <p align="center">
   <img width="49%" src="assets/github-stats.svg" alt="GitHub profile statistics" />
@@ -93,7 +87,7 @@ Direction     Full-stack engineering, backend systems, and applied AI.
   <img width="95%" src="assets/development-focus.svg" alt="Current development focus" />
 </p>
 
-## 07 // RECRUITER SNAPSHOT
+## 06 // RECRUITER SNAPSHOT
 
 | Signal | Detail |
 | --- | --- |
@@ -103,7 +97,7 @@ Direction     Full-stack engineering, backend systems, and applied AI.
 | Collaboration | Open-source contributions and product-focused teamwork |
 | Location | India |
 
-## 08 // CONNECT
+## 07 // CONNECT
 
 <p align="center">
   <a href="https://codeforces.com/profile/SarahSpeedy">
