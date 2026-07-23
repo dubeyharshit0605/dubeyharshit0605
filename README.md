@@ -76,7 +76,13 @@ Direction     Full-stack engineering, backend systems, and applied AI.
 - Practice DSA and system design with consistency
 - Document serious projects so their value is clear in under one minute
 
-## 05 // ENGINEERING SIGNAL
+## 05 // OPEN-SOURCE LOG
+
+| Project | Contribution |
+| --- | --- |
+| [Rowboat](https://github.com/rowboatlabs/rowboat) | Working on grouped UI for consecutive web-search results ([issue #764](https://github.com/rowboatlabs/rowboat/issues/764)) |
+
+## 06 // ENGINEERING SIGNAL
 
 <p align="center">
   <img width="49%" src="assets/github-stats.svg" alt="GitHub profile statistics" />
@@ -87,7 +93,7 @@ Direction     Full-stack engineering, backend systems, and applied AI.
   <img width="95%" src="assets/development-focus.svg" alt="Current development focus" />
 </p>
 
-## 06 // RECRUITER SNAPSHOT
+## 07 // RECRUITER SNAPSHOT
 
 | Signal | Detail |
 | --- | --- |
