@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="118" src="assets/ice-phoenix-avatar.png" alt="Original ice phoenix developer crest" />
+  <img width="132" src="assets/ice-phoenix-profile-v2.png" alt="Original anime-inspired developer portrait with an ice phoenix aura" />
 </p>
 
 <h1 align="center">HARSHIT DUBEY</h1>
