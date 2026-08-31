@@ -14,7 +14,7 @@
 
 ### `01 / operator`
 
-I'm **Harshit**, a Software Engineer @ Venu AI (**YC W21**) and a CS undergrad at **IIIT Vadodara**.
+I'm **Harshit** — **Software Engineer @ Venu AI · Y Combinator W21** and a CS undergrad at **IIIT Vadodara**.
 
 I like the part of engineering where the problem is still fuzzy: finding the useful shape, designing the system, and pushing it across the line into a product people can actually use. My current orbit is **agentic AI, backend systems, and developer tooling**.
 
@@ -35,7 +35,6 @@ output  a reliable feature in users' hands
 
 | Build | What it explores | Signal |
 |:--|:--|:--|
-| [**CampusVision · Florence-2**](https://github.com/dubeyharshit0605/campusvision-florence2) | A free, cross-platform visual-intelligence app powered by Microsoft Florence-2 | Applied AI · Python · product |
 | [**Text to Learn**](https://github.com/dubeyharshit0605/Text-to-learn) | Turns source material into a structured learning experience | GenAI · full stack |
 | [**Rubik's Cube Studio**](https://github.com/dubeyharshit0605/rubiks-cube-studio) | A tactile, interactive cube experience for the web | TypeScript · interaction |
 | [**AI Storage Platform**](https://github.com/dubeyharshit0605/ai-storage-platform) | Backend-first system evolving toward AI-assisted processing | APIs · architecture |

@@ -16,9 +16,13 @@ fail() {
 xmllint --noout "$hero" 2>/dev/null || fail "hero artwork is not valid XML"
 
 grep -Fq 'Software Engineer @ Venu AI' "$readme" || fail "current role is not immediately visible"
-grep -Fq 'YC W21' "$readme" || fail "Venu AI YC context is missing"
+grep -Fq 'Y Combinator W21' "$readme" || fail "full Y Combinator credential is not prominent in the README"
 grep -Fq 'IIIT Vadodara' "$readme" || fail "education context is missing"
 grep -Fq 'assets/shipping-log-hero.svg' "$readme" || fail "README does not render the custom hero"
+grep -Fq 'Y COMBINATOR' "$hero" || fail "hero does not feature the full Y Combinator name"
+
+project_count="$(grep -Ec '^\| \[\*\*' "$readme")"
+(( project_count == 3 )) || fail "proof of work must feature exactly three projects (found $project_count)"
 
 while IFS= read -r asset_path; do
   [[ -f "$repo_root/$asset_path" ]] || fail "README references missing local asset: $asset_path"

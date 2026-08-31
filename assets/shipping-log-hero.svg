@@ -50,11 +50,11 @@
     </g>
     <circle cx="1051" cy="157" r="4" fill="#c8ff5a" filter="url(#glow)"/>
 
-    <text x="630" y="239" fill="#758079" font-size="11" letter-spacing="2">CURRENT SIGNAL</text>
-    <text x="630" y="269" fill="#f4f6f0" font-size="14">SWE @ VENU AI</text>
-    <text x="805" y="269" fill="#758079" font-size="12">YC W21</text>
-    <text x="630" y="301" fill="#f4f6f0" font-size="14">IIIT VADODARA</text>
-    <text x="805" y="301" fill="#758079" font-size="12">INDIA</text>
-    <text x="630" y="329" fill="#758079" font-size="11">AI SYSTEMS / BACKEND / OPEN SOURCE</text>
+    <text x="630" y="235" fill="#758079" font-size="11" letter-spacing="2">CURRENT ROLE</text>
+    <text x="630" y="260" fill="#f4f6f0" font-size="15">SWE @ VENU AI</text>
+    <text x="630" y="296" fill="#f4f6f0" font-size="24" font-weight="700" letter-spacing="1">Y COMBINATOR</text>
+    <rect x="986" y="269" width="92" height="36" rx="8" fill="#c8ff5a"/>
+    <text x="1032" y="293" fill="#080b09" font-size="16" font-weight="700" text-anchor="middle">W21</text>
+    <text x="630" y="329" fill="#758079" font-size="11">IIIT VADODARA / AI SYSTEMS / BACKEND / OPEN SOURCE</text>
   </g>
 </svg>
