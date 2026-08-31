@@ -1,81 +1,71 @@
 <div align="center">
-
-# Harshit Dubey
-
-### Software Engineer · AI Systems · Backend · Open Source
-
-Building AI-powered products, backend systems, and developer tools.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dubeyharshit0605/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/H23ko5723323)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://harshit-dubey-swe.vercel.app/#top)
-
+  <img src="assets/shipping-log-hero.svg" width="100%" alt="Harshit Dubey — Software Engineer building AI systems and backend products" />
 </div>
 
----
-
-## About
-
-CS undergraduate at **IIIT Vadodara** focused on building real-world software across **AI systems, backend engineering, and developer tooling**.
-
-Currently working as a **Software Engineering Intern at Venu AI (YC W21)**, shipping AI-powered product workflows and full-stack features.
-
-Previously worked across software engineering, LLM evaluation, technical content, and competitive programming.
-
----
-
-## What I'm working on
-
-- Building AI-powered product workflows and full-stack features
-- Exploring **Agentic AI, LLM systems, and AI infrastructure**
-- Contributing to open-source AI & developer tooling
-- Improving system design, backend engineering, and distributed systems
-- Competitive programming on Codeforces, LeetCode, and CodeChef
-
----
-
-## Tech
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,django,fastapi,mongodb,postgres,docker,azure,git,github&perline=15" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/dubeyharshit0605/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://harshit-dubey-swe.vercel.app/#top">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:dubeyharshit0605@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/search?q=is%3Apr+author%3Adubeyharshit0605&type=pullrequests">Open-source work</a>
 </p>
 
-**AI / LLMs:** Agentic AI · LLM APIs · RAG · Tool Calling · Evaluation  
-**Backend:** REST APIs · Authentication · Databases · Docker · Cloud Deployment
+### `01 / operator`
 
----
+I'm **Harshit**, a Software Engineer @ Venu AI (**YC W21**) and a CS undergrad at **IIIT Vadodara**.
 
-## Competitive Programming
-
-`Codeforces Specialist` · `LeetCode Knight` · `CodeChef 4⭐`
-
-Strong foundation in **algorithms, data structures, problem solving, and optimization**.
-
----
-
-## Open Source
-
-Contributing fixes and features to real-world **AI and developer tooling projects**.
-
-I care about shipping useful changes, understanding unfamiliar codebases, and writing maintainable software.
-
----
-
-## Selected Focus
+I like the part of engineering where the problem is still fuzzy: finding the useful shape, designing the system, and pushing it across the line into a product people can actually use. My current orbit is **agentic AI, backend systems, and developer tooling**.
 
 ```text
-AI Systems        ███████████████████░
-Backend           ██████████████████░░
-Open Source       ████████████████░░░░
-Competitive Prog. ███████████████░░░░░
+input   ambiguous product problem
+process product thinking × backend engineering × fast iteration
+output  a reliable feature in users' hands
 ```
+
+### `02 / now shipping`
+
+- Building AI-powered product workflows and full-stack features at **Venu AI**
+- Going deeper on **agents, RAG, tool calling, evaluations, and AI infrastructure**
+- Growing an [AI storage platform](https://github.com/dubeyharshit0605/ai-storage-platform) from a file service into an intelligent processing system
+- Contributing small, useful changes to open-source products I genuinely use
+
+### `03 / proof of work`
+
+| Build | What it explores | Signal |
+|:--|:--|:--|
+| [**CampusVision · Florence-2**](https://github.com/dubeyharshit0605/campusvision-florence2) | A free, cross-platform visual-intelligence app powered by Microsoft Florence-2 | Applied AI · Python · product |
+| [**Text to Learn**](https://github.com/dubeyharshit0605/Text-to-learn) | Turns source material into a structured learning experience | GenAI · full stack |
+| [**Rubik's Cube Studio**](https://github.com/dubeyharshit0605/rubiks-cube-studio) | A tactile, interactive cube experience for the web | TypeScript · interaction |
+| [**AI Storage Platform**](https://github.com/dubeyharshit0605/ai-storage-platform) | Backend-first system evolving toward AI-assisted processing | APIs · architecture |
+
+### `04 / open-source transmission`
+
+I learn unfamiliar codebases by leaving them a little better than I found them.
+
+- [`wasp-lang/wasp`](https://github.com/wasp-lang/wasp/pulls?q=is%3Apr+author%3Adubeyharshit0605) — merged documentation UX fixes
+- [`tsouth89/toolport`](https://github.com/tsouth89/toolport/pull/393) — merged ConfirmDialog test coverage
+- [`rowboatlabs/rowboat`](https://github.com/rowboatlabs/rowboat/pull/782) — product UI work for grouped web-search results
+
+### `05 / engineering pipeline`
+
+```text
+PRODUCT       React · Next.js · TypeScript · Flutter
+SERVICES      Node.js · FastAPI · Django · REST · authentication
+INTELLIGENCE  LLM APIs · RAG · agents · tool calling · evaluation
+DATA + SHIP   PostgreSQL · MongoDB · Docker · Azure · GitHub Actions
+FOUNDATIONS   C++ · DSA · OOP · DBMS · system design
+```
+
+### `06 / problem-solving engine`
+
+`Codeforces Specialist` &nbsp;·&nbsp; `LeetCode Knight` &nbsp;·&nbsp; `CodeChef 4★`
+
+Algorithms are my gym: constraints in, trade-offs surfaced, clean solution out.
 
 ---
 
-<div align="center">
-
-### Build. Ship. Learn. Repeat.
-
-Open to collaborating on **AI systems, backend engineering, developer tools, and open source**.
-
-</div>
+<p align="center">
+  <samp>BUILD THE USEFUL THING · MAKE IT RELIABLE · SHIP THE NEXT ITERATION</samp>
+</p>

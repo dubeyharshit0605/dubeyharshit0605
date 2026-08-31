@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Harshit Dubey — Software Engineer</title>
+  <desc id="desc">A dark engineering console showing Harshit's path from idea to backend to agent to shipped product.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111712"/>
+      <stop offset="1" stop-color="#090c0a"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#c8ff5a" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="#080b09"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="url(#panel)" stroke="#2a332c"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <circle cx="34" cy="30" r="5" fill="#ff6b6b"/>
+    <circle cx="52" cy="30" r="5" fill="#ffd166"/>
+    <circle cx="70" cy="30" r="5" fill="#c8ff5a"/>
+    <text x="94" y="35" fill="#758079" font-size="12" letter-spacing="2">SHIPPING_LOG / 2026</text>
+    <text x="1138" y="35" fill="#c8ff5a" font-size="11" text-anchor="end">● ONLINE</text>
+
+    <text x="62" y="114" fill="#c8ff5a" font-size="14" letter-spacing="4">HARSHIT.DUBEY</text>
+    <text x="58" y="172" fill="#f4f6f0" font-size="48" font-weight="700" letter-spacing="-2">SOFTWARE</text>
+    <text x="58" y="222" fill="#f4f6f0" font-size="48" font-weight="700" letter-spacing="-2">ENGINEER</text>
+    <text x="62" y="260" fill="#9ba69e" font-size="15">turning messy product problems into</text>
+    <text x="62" y="284" fill="#c8ff5a" font-size="15">AI workflows that ship.</text>
+
+    <line x1="630" y1="102" x2="1100" y2="102" stroke="#303a32"/>
+    <line x1="630" y1="211" x2="1100" y2="211" stroke="#303a32"/>
+    <path d="M660 157H1070" stroke="#58625b" stroke-width="2" stroke-dasharray="4 8"/>
+
+    <g fill="#0b0f0c" stroke="#3d483f">
+      <rect x="620" y="132" width="106" height="50" rx="10"/>
+      <rect x="746" y="132" width="106" height="50" rx="10"/>
+      <rect x="872" y="132" width="106" height="50" rx="10"/>
+      <rect x="998" y="132" width="106" height="50" rx="10" stroke="#c8ff5a"/>
+    </g>
+    <g fill="#c3cbc5" font-size="12" text-anchor="middle" letter-spacing="1.4">
+      <text x="673" y="162">IDEA</text>
+      <text x="799" y="162">BACKEND</text>
+      <text x="925" y="162">AGENT</text>
+      <text x="1051" y="162" fill="#c8ff5a">SHIP</text>
+    </g>
+    <circle cx="1051" cy="157" r="4" fill="#c8ff5a" filter="url(#glow)"/>
+
+    <text x="630" y="239" fill="#758079" font-size="11" letter-spacing="2">CURRENT SIGNAL</text>
+    <text x="630" y="269" fill="#f4f6f0" font-size="14">SWE @ VENU AI</text>
+    <text x="805" y="269" fill="#758079" font-size="12">YC W21</text>
+    <text x="630" y="301" fill="#f4f6f0" font-size="14">IIIT VADODARA</text>
+    <text x="805" y="301" fill="#758079" font-size="12">INDIA</text>
+    <text x="630" y="329" fill="#758079" font-size="11">AI SYSTEMS / BACKEND / OPEN SOURCE</text>
+  </g>
+</svg>
