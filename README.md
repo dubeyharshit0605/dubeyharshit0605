@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/shipping-log-hero.svg?v=yc-w21" width="100%" alt="Harshit Dubey — Software Engineer building AI systems and backend products" />
+  <img src="assets/shipping-log-hero.svg?v=yc-w21-compact" width="100%" alt="Harshit Dubey — Software Engineer building AI systems and backend products" />
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### `01 / operator`
 
-I'm **Harshit** — **Software Engineer @ Venu AI · Y Combinator W21** and a CS undergrad at **IIIT Vadodara**.
+I'm **Harshit** — **Software Engineer @ Venu AI · YC W21** and a CS undergrad at **IIIT Vadodara**.
 
 I like the part of engineering where the problem is still fuzzy: finding the useful shape, designing the system, and pushing it across the line into a product people can actually use. My current orbit is **agentic AI, backend systems, and developer tooling**.
 
