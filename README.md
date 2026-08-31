@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/shipping-log-hero.svg" width="100%" alt="Harshit Dubey — Software Engineer building AI systems and backend products" />
+  <img src="assets/shipping-log-hero.svg?v=yc-w21" width="100%" alt="Harshit Dubey — Software Engineer building AI systems and backend products" />
 </div>
 
 <p align="center">

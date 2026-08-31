@@ -19,6 +19,7 @@ grep -Fq 'Software Engineer @ Venu AI' "$readme" || fail "current role is not im
 grep -Fq 'Y Combinator W21' "$readme" || fail "full Y Combinator credential is not prominent in the README"
 grep -Fq 'IIIT Vadodara' "$readme" || fail "education context is missing"
 grep -Fq 'assets/shipping-log-hero.svg' "$readme" || fail "README does not render the custom hero"
+grep -Fq 'shipping-log-hero.svg?v=yc-w21' "$readme" || fail "hero URL is not versioned to prevent stale profile artwork"
 grep -Fq 'Y COMBINATOR' "$hero" || fail "hero does not feature the full Y Combinator name"
 
 project_count="$(grep -Ec '^\| \[\*\*' "$readme")"
